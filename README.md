@@ -193,7 +193,7 @@ When you are done, the output should look something like this:
 database: .token-cli
 address: token1rvzhmceq997zntgvravfagsks6w0ryud3rylh4cdvayry0dl97nsjzf3yp
 chainID: Em2pZtHr7rDCzii43an2bBi1M2mTFyLN33QP1Xfjy7BcWtaH9
-metadata (can be changed later): abhilashtoken
+metadata (can be changed later): MarioCoin
 continue (y/n): y
 ✅ txID: 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4Appavug
 ```
